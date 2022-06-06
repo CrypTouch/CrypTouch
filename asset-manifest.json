@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9ace39e2.css",
+    "main.js": "/static/js/main.8fc94dc9.js",
+    "static/js/787.d2dde3ce.chunk.js": "/static/js/787.d2dde3ce.chunk.js",
+    "static/media/Telegram_logo.png": "/static/media/Telegram_logo.c8c4a95582b52f857082.png",
+    "static/media/ZEC.svg": "/static/media/ZEC.7bf4d5b07bcabdd7b61e.svg",
+    "static/media/XLM.svg": "/static/media/XLM.df68d8777b78f84658b2.svg",
+    "static/media/XTZ.svg": "/static/media/XTZ.ef271c694f7cc696f83c.svg",
+    "static/media/TRX.svg": "/static/media/TRX.0b173aefd126918cbcb0.svg",
+    "index.html": "/index.html",
+    "main.9ace39e2.css.map": "/static/css/main.9ace39e2.css.map",
+    "main.8fc94dc9.js.map": "/static/js/main.8fc94dc9.js.map",
+    "787.d2dde3ce.chunk.js.map": "/static/js/787.d2dde3ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ace39e2.css",
+    "static/js/main.8fc94dc9.js"
+  ]
+}
